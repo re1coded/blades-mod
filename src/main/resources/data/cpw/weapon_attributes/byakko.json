@@ -1,0 +1,11 @@
+{
+  "parent": "bettercombat:katana",
+  "attributes":{
+    "attacks": [
+      {"damage_multiplier": 2},
+      {},
+      {},
+      {}
+    ]
+  }
+}

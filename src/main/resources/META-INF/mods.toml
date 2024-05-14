@@ -1,0 +1,35 @@
+modLoader="javafml"
+
+loaderVersion="${loader_version_range}"
+
+license="MIT"
+
+[[mods]]
+
+modId="cpw"
+
+version="${mod_version}"
+
+displayName="CP Weapons"
+
+authors="re1coded"
+
+description='''${mod_description}'''
+[[dependencies.cpw]]
+    modId="geckolib"
+    mandatory=true
+    versionRange="4.4.4"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.cpw]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.cpw]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

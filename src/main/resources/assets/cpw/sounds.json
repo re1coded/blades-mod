@@ -1,0 +1,18 @@
+{
+  "space_station": {
+    "sounds": [
+      {
+        "name": "cpw:space_station",
+        "stream": true
+      }
+    ]
+  },
+  "traveler": {
+    "sounds": [
+      {
+        "name": "cpw:traveler",
+        "stream": true
+      }
+    ]
+  }
+}

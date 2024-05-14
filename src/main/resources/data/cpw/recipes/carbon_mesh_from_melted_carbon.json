@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "cpw:forged_stone"
+    },
+    "X": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "result": {
+    "count": 2,
+    "item": "cpw:stone_mesh"
+  }
+}

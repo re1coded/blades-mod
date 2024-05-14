@@ -1,0 +1,14 @@
+{
+  "type": "cpw:printer_printing",
+  "ingredients": [
+    {
+      "item": "cpw:bl_byakko"
+    },
+    {
+      "item": "cpw:stone_mesh"
+    }
+  ],
+  "output": {
+    "item": "cpw:byakko"
+  }
+}

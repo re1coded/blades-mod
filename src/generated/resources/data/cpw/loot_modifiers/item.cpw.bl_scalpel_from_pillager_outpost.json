@@ -1,0 +1,14 @@
+{
+  "type": "cpw:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/pillager_outpost"
+    },
+    {
+      "chance": 0.24,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "cpw:bl_scalpel"
+}

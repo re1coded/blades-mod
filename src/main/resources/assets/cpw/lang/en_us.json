@@ -1,0 +1,70 @@
+{
+  "creativetab.cpw.tab": "Cyberpunk Melee Weapons",
+  "creativetab.cpw_crafting.tab": "Crafting Items",
+
+  "item.cpw.carbon_stone": "Carbon",
+  "item.cpw.forged_stone": "Melted Carbon",
+  "item.cpw.stone_mesh": "Carbon Mesh",
+
+  "item.cpw.space_station_music_disk": "Space Station",
+  "item.cpw.space_station_music_disk.desc": "Re1coded - Space Station",
+  "item.cpw.traveler_music_disk": "Traveler",
+  "item.cpw.traveler_music_disk.desc": "Re1coded - Traveler",
+
+  "item.cpw.blueprint_template": "Blank Blueprint",
+
+  "item.cpw.bl_space_station": "Space Station disc Blueprint",
+  "item.cpw.bl_traveler": "Traveler disc Blueprint",
+  "item.cpw.bl_punk_jacket": "Jacket Blueprint",
+
+  "item.cpw.bl_base_katana": "Katana Blueprint",
+  "item.cpw.bl_jinchu_maru": "Jinchu-Maru Blueprint",
+  "item.cpw.bl_scalpel": "Scalpel Blueprint",
+  "item.cpw.bl_tsumetogi": "Tsumetogi Blueprint",
+  "item.cpw.bl_cocktail_stick": "Cocktail Stick Blueprint",
+  "item.cpw.bl_byakko": "Byakko Blueprint",
+  "item.cpw.bl_errata": "Errata Blueprint",
+  "item.cpw.bl_satori": "Satori Blueprint",
+  "item.cpw.bl_ding": "Ding-Ding Blueprint",
+  "item.cpw.bl_boomer": "Murphy's Law Blueprint",
+  "item.cpw.bl_murphy": "Ok, Boomer Blueprint",
+  "item.cpw.bl_gold_bat": "Gold-plated baseball bat Blueprint",
+  "item.cpw.bl_sasquatch": "Sasquatch's Hammer Blueprint",
+  "item.cpw.bl_cleaver": "Butcher's Cleaver Blueprint",
+  "item.cpw.bl_nehan": "Nehan Blueprint",
+  "item.cpw.bl_blue_fang": "Blue Fang Blueprint",
+  "item.cpw.bl_fang": "Fang Blueprint",
+  "item.cpw.bl_headhunter": "Headhunter Blueprint",
+
+  "block.cpw.printer_block": "3D Printer",
+
+  "item.cpw.base_katana": "Katana",
+  "item.cpw.jinchu_maru": "Jinchu-Maru",
+  "item.cpw.scalpel": "Scalpel",
+  "item.cpw.tsumetogi": "Tsumetogi",
+  "item.cpw.cocktail_stick": "Cocktail Stick",
+  "item.cpw.byakko": "Byakko",
+  "item.cpw.errata": "Errata",
+  "item.cpw.satori": "Satori",
+
+  "item.cpw.ding": "Ding-Ding",
+  "item.cpw.murphy": "Murphy's Law",
+  "item.cpw.boomer": "Ok, Boomer",
+  "item.cpw.gold_bat": "Gold-plated baseball bat",
+
+  "item.cpw.sasquatch": "Sasquatch's Hammer",
+  "item.cpw.cleaver": "Butcher's Cleaver",
+
+  "item.cpw.nehan": "Nehan",
+  "item.cpw.blue_fang": "Blue Fang",
+  "item.cpw.fang": "Fang",
+  "item.cpw.headhunter": "Headhunter",
+
+  "item.cpw.bullet_pendant": "Bullet Pendant",
+  "item.cpw.agent_card": "NUSA Agent Card",
+  "item.cpw.punk_jacket": "Replica of Johnny's Samurai jacket",
+  "item.cpw.suit_helmet": "NUSA Agent glasses",
+  "item.cpw.suit_chestplate": "NUSA Agent suit",
+  "item.cpw.suit_leggings": "NUSA Agent leggings",
+  "item.cpw.suit_boots": "NUSA Agent boots"
+}

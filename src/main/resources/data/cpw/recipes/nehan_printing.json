@@ -1,0 +1,14 @@
+{
+  "type": "cpw:printer_printing",
+  "ingredients": [
+    {
+      "item": "cpw:bl_nehan"
+    },
+    {
+      "item": "cpw:stone_mesh"
+    }
+  ],
+  "output": {
+    "item": "cpw:nehan"
+  }
+}

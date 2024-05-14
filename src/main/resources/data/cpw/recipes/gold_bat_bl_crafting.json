@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":{
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "cpw:blueprint_template"
+    },
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    "#C",
+    "XA"
+  ],
+  "result": {
+    "item": "cpw:bl_gold_bat"
+  }
+}

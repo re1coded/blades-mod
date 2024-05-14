@@ -1,0 +1,16 @@
+{
+  "parent": "bettercombat:sword",
+  "attributes":{
+    "attacks": [
+      {
+        "damage_multiplier": 0.3
+      },
+      {
+        "damage_multiplier": 0.3
+      },
+      {
+        "damage_multiplier": 0.3
+      }
+    ]
+  }
+}

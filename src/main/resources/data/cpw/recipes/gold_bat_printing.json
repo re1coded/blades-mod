@@ -1,0 +1,14 @@
+{
+  "type": "cpw:printer_printing",
+  "ingredients": [
+    {
+      "item": "cpw:bl_gold_bat"
+    },
+    {
+      "item": "cpw:stone_mesh"
+    }
+  ],
+  "output": {
+    "item": "cpw:gold_bat"
+  }
+}

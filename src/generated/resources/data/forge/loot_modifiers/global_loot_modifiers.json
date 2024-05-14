@@ -1,0 +1,27 @@
+{
+  "entries": [
+    "cpw:item.cpw.bl_base_katana_from_pillager_outpost",
+    "cpw:headhunter_bl_from_anc_city",
+    "cpw:hammer_bl_from_jungle",
+    "cpw:maru_bl_from_end_city",
+    "cpw:bl_template_from_village",
+    "cpw:item.cpw.bl_tsumetogi_from_pillager_outpost",
+    "cpw:card_from_anc_city",
+    "cpw:byakko_bl_from_woodland_mansion",
+    "cpw:gold_bat_bl_from_portal",
+    "cpw:satori_bl_from_anc_city",
+    "cpw:base_katana_bl_from_dungeon",
+    "cpw:pendant_from_end_city",
+    "cpw:traveler_bl_from_pyramid",
+    "cpw:ding_bl_from_igloo",
+    "cpw:errata_bl_from_bastion",
+    "cpw:item.cpw.bl_fang_from_mineshaft",
+    "cpw:murphy_bl_from_shipwreck",
+    "cpw:item.cpw.bl_scalpel_from_pillager_outpost",
+    "cpw:boomer_bl_from_mineshaft",
+    "cpw:item.cpw.bl_nehan_from_mineshaft",
+    "cpw:space_station_bl_from_end_city",
+    "cpw:item.cpw.bl_cocktail_stick_from_pillager_outpost"
+  ],
+  "replace": false
+}

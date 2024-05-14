@@ -1,0 +1,9 @@
+{
+  "parent": "bettercombat:sword",
+  "attributes": {
+    "attacks": [
+      {},
+      {}
+    ]
+  }
+}

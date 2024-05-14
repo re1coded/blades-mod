@@ -1,0 +1,14 @@
+{
+  "type": "cpw:printer_printing",
+  "ingredients": [
+    {
+      "item": "cpw:bl_space_station"
+    },
+    {
+      "item": "cpw:stone_mesh"
+    }
+  ],
+  "output": {
+    "item": "cpw:space_station_music_disk"
+  }
+}

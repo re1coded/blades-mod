@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:redstone"
+    },
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "#": {
+      "item": "minecraft:gray_concrete"
+    }
+  },
+  "pattern": [
+    "X X",
+    "#A#",
+    "# #"
+  ],
+  "result": {
+    "item": "cpw:printer_block"
+  }
+}

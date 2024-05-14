@@ -1,0 +1,62 @@
+{
+  "item.cpw.carbon_stone": "Углеродный камень",
+  "item.cpw.forged_stone": "Расплавленый углеродный камень",
+  "item.cpw.stone_mesh": "Углеродная сетка",
+
+  "block.cpw.printer_block": "3Д Принтер",
+
+  "item.cpw.blueprint_template": "Пустой чертёж",
+
+  "item.cpw.bl_space_station": "Чертёж: \"Space Station\"",
+  "item.cpw.bl_traveler": "Чертёж: \"Traveler\"",
+
+  "item.cpw.bl_base_katana": "Чертёж: \"Катана\"",
+  "item.cpw.bl_jinchu_maru": "Чертёж: \"Дзинтю-Мару\"",
+  "item.cpw.bl_scalpel": "Чертёж: \"Скальпель\"",
+  "item.cpw.bl_tsumetogi": "Чертёж: \"Цумэтоги\"",
+  "item.cpw.bl_cocktail_stick": "Чертёж: \"Коктейльная Палочка\"",
+  "item.cpw.bl_byakko": "Чертёж: \"Бякко\"",
+  "item.cpw.bl_errata": "Чертёж: \"Эррата\"",
+  "item.cpw.bl_satori": "Чертёж: \"Сатори\"",
+  "item.cpw.bl_ding": "Чертёж: \"Динь-Динь\"",
+  "item.cpw.bl_boomer": "Чертёж: \"Закон Мёрфи\"",
+  "item.cpw.bl_murphy": "Чертёж: \"Антилох\"",
+  "item.cpw.bl_gold_bat": "Чертёж: \"Позолоченная Бейсбольная Бита\"",
+  "item.cpw.bl_sasquatch": "Чертёж: \"Молот Сасквоч\"",
+  "item.cpw.bl_cleaver": "Чертёж: \"Топор Мясника\"",
+  "item.cpw.bl_nehan": "Чертёж: \"Нэхан\"",
+  "item.cpw.bl_blue_fang": "Чертёж: \"Синий Клык\"",
+  "item.cpw.bl_fang": "Чертёж: \"Клык\"",
+  "item.cpw.bl_headhunter": "Чертёж: \"Головорез\"",
+  "item.cpw.bl_punk_jacket": "Чертёж: \"Панковская Куртка\"",
+
+  "item.cpw.base_katana": "Катана",
+  "item.cpw.byakko": "Бякко",
+  "item.cpw.cocktail_stick": "Коктейльная Палочка",
+  "item.cpw.errata": "Эррата",
+  "item.cpw.jinchu_maru": "Дзинтю-Мару",
+  "item.cpw.satori": "Сатори",
+  "item.cpw.scalpel": "Скальпель",
+  "item.cpw.tsumetogi": "Цумэтоги",
+
+  "item.cpw.ding": "Динь-Динь",
+  "item.cpw.murphy": "Закон Мёрфи",
+  "item.cpw.boomer": "Антилох",
+  "item.cpw.gold_bat": "Позолоченная Бейсбольная Бита",
+
+  "item.cpw.sasquatch": "Молот Сасквоч",
+  "item.cpw.cleaver": "Топор Мясника",
+
+  "item.cpw.nehan": "Нэхан",
+  "item.cpw.blue_fang": "Синий Клык",
+  "item.cpw.fang": "Клык",
+  "item.cpw.headhunter": "Головорез",
+
+  "item.cpw.bullet_pendant": "Медальон с пулей",
+  "item.cpw.agent_card": "Именная карта агента НСША",
+  "item.cpw.punk_jacket": "Реплика самурайской куртки Джонни",
+  "item.cpw.suit_helmet": "Очки агента НСША",
+  "item.cpw.suit_chestplate": "Пиджак агента НСША",
+  "item.cpw.suit_leggings": "Штаны агента НСША",
+  "item.cpw.suit_boots": "Ботинки агента НСША"
+}
